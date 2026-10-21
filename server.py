@@ -66,4 +66,8 @@ Check:
 """ 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     server.run()
+=======
+    server.run()
+>>>>>>> 67a1f16dcdd4ed83e2aa365c94f07c19fe4bad64
